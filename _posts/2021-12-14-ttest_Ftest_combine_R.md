@@ -10,8 +10,6 @@ author: Songbiao Zhu
 
 定义一个`super.t`函数，先做`F test`，然后再根据F test 的 p value结果，再进行做 `t test`。
 
-
-
 <!-- more -->
 
 
