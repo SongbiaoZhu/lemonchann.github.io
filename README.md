@@ -1,5 +1,4 @@
 This is my personal blog for Summary, and Share.
-This blog page forked from [lemon's blog](https://lemonchann.github.io/).
 
 ### 文章版权
 
