@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-3-Python变量类型和运算符"
+title: "C中文网python编程基础chapter-3-Python变量类型和运算符"
 date:   2019-09-04
 tags: [python]
 comments: true

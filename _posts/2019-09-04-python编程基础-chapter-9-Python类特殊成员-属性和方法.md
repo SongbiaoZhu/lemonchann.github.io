@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-9-Python类特殊成员-属性和方法"
+title: "C中文网python编程基础chapter-9-Python类特殊成员-属性和方法"
 date:   2019-09-04
 tags: [python]
 comments: true

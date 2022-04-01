@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-12-Python文件操作"
+title: "C中文网python编程基础chapter-12-Python文件操作"
 date:   2019-09-04
 tags: [python]
 comments: true

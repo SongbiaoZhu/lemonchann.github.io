@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-10-Python异常处理机制"
+title: "C中文网python编程基础chapter-10-Python异常处理机制"
 date:   2019-09-04
 tags: [python]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-7-Python函数和lambda表达式"
+title: "C中文网python编程基础chapter-7-Python函数和lambda表达式"
 date:   2019-09-04
 tags: [python]
 comments: true

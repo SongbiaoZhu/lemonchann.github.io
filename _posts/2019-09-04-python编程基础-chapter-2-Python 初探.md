@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-2-Python 初探"
+title: "C中文网python编程基础chapter-2-Python 初探"
 date:   2019-09-04
 tags: [python]
 comments: true

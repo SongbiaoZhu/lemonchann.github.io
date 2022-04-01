@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "chapter-4.1-Python列表元组字典和集合详解"
+title: "C中文网python编程基础chapter-4.1-Python列表元组字典和集合详解"
 date:   2019-09-04
 tags: [python]
 comments: true
