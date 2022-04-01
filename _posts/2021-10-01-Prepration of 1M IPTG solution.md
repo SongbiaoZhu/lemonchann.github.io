@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prepration of 1M IPTG solution"
-date:   2022-03-18
+date:   2021-10-01
 tags: [experiments]
 toc: true
 comments: true
