@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rtools4_is_required_for_build_R_packages报错解决方法"
+title: "Rtools4 is required for build R packages报错解决方法"
 date:   2020-10-19
 tags: [R]
 comments: true

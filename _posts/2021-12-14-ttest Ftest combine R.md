@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ttest_Ftest_combine_R"
+title: "ttest Ftest combine R"
 date:   2021-12-14
 tags: [R]
 comments: true
@@ -8,11 +8,13 @@ toc: true
 author: Songbiao Zhu
 ---
 
-定义一个`super.t`函数，先做`F test`，然后再根据F test 的 p value结果，再进行做 `t test`。
+常规进行t test检验时，需要首先进行方差齐性的F test检验，根据检验结果，确定t test检验时所使用的参数，对应地设置方差齐性，或者方差非齐性。 那么在R语言中如何实现一个函数，综合这两个检验呢？
 
 <!-- more -->
 
+## Introduction
 
+定义一个`super.t`函数，先做`F test`，然后再根据F test 的 p value结果，再进行做 `t test`。
 
 ## Code
 
