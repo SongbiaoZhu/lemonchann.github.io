@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ggTheme Assist adjust R plot.md"
+title: "ggTheme Assist adjust R plot"
 date:  2019-09-04
 tags: [R]
 comments: true
