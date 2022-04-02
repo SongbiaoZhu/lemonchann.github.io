@@ -20,4 +20,4 @@ Hi，I'm Songbiao Zhu.
 
 ### Copyright
 
-The blog post is my original article, which is archived under _posts folder. The copyright belongs to me. Please contact me to obtain authorization for reprinting.
+The blog post is my original article, which is archived under `_posts` folder. The copyright belongs to me. Please contact me to obtain authorization for reprinting.

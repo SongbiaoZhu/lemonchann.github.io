@@ -1,4 +1,4 @@
-This is my personal blog for Summary, and Share.
+This is my personal blog for my work and life.
 
 ### 文章版权
 
