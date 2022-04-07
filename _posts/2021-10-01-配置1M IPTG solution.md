@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prepration of 1M IPTG solution"
+title: "配置1M IPTG solution"
 date:   2021-10-01
 tags: [experiments]
 toc: true
