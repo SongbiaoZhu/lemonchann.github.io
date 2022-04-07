@@ -12,6 +12,10 @@ Hi，I'm Songbiao Zhu.
 * Thermal proteome profiling (TPP); post-translational modification (PTM); LC-MS/MS-based quantitative proteomics
 *	R and python programming for statistical analysis; shiny-based webtools development
 
+### Publications
+
+Please click [here](https://pubmed.ncbi.nlm.nih.gov/?term=%22zhu+songbiao%22%5BAU%5D&sort=date) to see my publications in Pubmed.
+
 ### Hobbies
 
 * Guitar
