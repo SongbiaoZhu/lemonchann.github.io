@@ -16,6 +16,10 @@ Hi，I'm Songbiao Zhu.
 
 Please click [here](https://pubmed.ncbi.nlm.nih.gov/?term=%22zhu+songbiao%22%5BAU%5D&sort=date) to see my publications in Pubmed.
 
+## Application development
+
+* [shinyIF: A web tool for searching and visualizing journal impact factors](https://songbiaozhu.shinyapps.io/shinyif/)
+
 ### Hobbies
 
 * Guitar
