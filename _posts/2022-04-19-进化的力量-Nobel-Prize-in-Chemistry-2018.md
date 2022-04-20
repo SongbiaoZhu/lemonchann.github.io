@@ -35,3 +35,5 @@ NCBI的RefSeq数据库id，一般是两个大写首字母，加下划线，后�
 ## Related readings
 
 * [深度解读2018诺贝尔化学奖：驯服进化的力量](http://quanyuan.whu.edu.cn/nobel2018.html)
+
+* Barderas R, Benito-Peña E. The 2018 Nobel Prize in Chemistry: phage display of peptides and antibodies. Anal Bioanal Chem. 2019 May;411(12):2475-2479. doi: 10.1007/s00216-019-01714-4. Epub 2019 Mar 19. PMID: 30888467.
