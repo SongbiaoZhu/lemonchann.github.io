@@ -14,7 +14,7 @@ Hi，I'm Songbiao Zhu.
 
 ### Publications
 
-Please click [here](https://pubmed.ncbi.nlm.nih.gov/?term=%22zhu+songbiao%22%5BAU%5D&sort=date) to see my publications in Pubmed.
+Please click [here](https://pubmed.ncbi.nlm.nih.gov/?term=%22zhu+songbiao%22%5BAU%5D&sort=date) to check my publications in Pubmed.
 
 ## Application development
 
