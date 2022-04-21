@@ -10,29 +10,25 @@ author: Songbiao Zhu
 
 2020年诺贝尔化学奖授予了Jennifer Doudna和Emmanuelle Charpentier这两位女科学家，以表彰她们在CRISPR技术发明上所做出的重要贡献。
 
-![nobel_prize_in_chemistry_2020](https://n.sinaimg.cn/tech/transform/460/w630h630/20201007/90cb-kaaxtfn5824407.jpg)
 
-* 弗朗西丝·阿诺德（Frances H.Arnold）首次实现了酶的定向进化。酶是一类能够催化化学反应的特殊蛋白质。通过定向进化制造的酶可用于生产包括生物燃料和药品在内的多种产品。
-
-* 乔治·史密斯（George P.Smith）研发了一种名叫噬菌体展示的技术，可利用噬菌体（一种能感染细菌的病毒）培育新型蛋白质。
-
-* 格雷戈里·温特爵士（Sir Gregory P.Winter）利用噬菌体展示技术发明了新药。利用该技术生产的抗体能够中和毒素、对抗自体免疫疾病、治愈转移性癌症等等。
 
 <!-- more -->
 
-## 弗朗西丝·阿诺德的研究故事
+## 埃曼纽尔·卡彭蒂耶的研究故事
 
-Gene ID 也称Entrez ID，EntrezGene ID 全为数字，比如.gene ID 为1时对应人的A1BG基因。Entrez id 相对稳定，gene ID列表可拿来做GO、KO富集分析。
 
-## 乔治·史密斯的研究故事
 
-NCBI的RefSeq数据库id，一般是两个大写首字母，加下划线，后面接数字。两个首字母如 ”NC_”、”NM_”、”NP_”分别对应DNA、mRNA、Protein。
+2011	Emmanuelle Charpentier	发现tracrRNA
 
-## 格雷戈里·温特爵士的研究故事
+## 詹妮弗·杜德纳的研究故事
 
-目前基本上与RefSeq ID一致，如下。
+
+2012	Doudna与Charpentier	首次利用CRISPR/Cas系统在体外对DNA进行切割
+
+
 
 ## Related readings
 
 * [浅谈2020年诺贝尔化学奖：通向未来的基因编辑](http://www.dxhx.pku.edu.cn/article/2020/1000-8438/20201219.shtml)
-
+*  Deltcheva E. ; Chylinski K. ; Sharma C. M. ; Gonzales K. ; Chao Y. ; Pirzada Z. A. ; Eckert M. R. ; Vogel J. ; Charpentier E. Nature 2011, 471 (7340), 602. 
+* Jinek M. ; Chylinski K. ; Fonfara I. ; Hauer M. ; Doudna J. A. ; Charpentier E. Science 2012, 337 (6096), 816. 
