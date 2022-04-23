@@ -4,7 +4,6 @@ title: "All nobel prizes in Physiology or Medicine"
 date:   2022-04-17
 tags: [NobelStory]
 comments: true
-toc: true
 author: Songbiao Zhu
 ---
 

@@ -4,7 +4,6 @@ title: "Gene scissors in nature: Nobel Prize in Chemistry 2020"
 date:   2022-04-17
 tags: [NobelStory]
 comments: true
-toc: true
 author: Songbiao Zhu
 ---
 

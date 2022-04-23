@@ -4,7 +4,6 @@ title: "Discovery of Insulin in 100 years: Four nobel prizes"
 date:   2022-04-17
 tags: [NobelStory]
 comments: true
-toc: true
 author: Songbiao Zhu
 ---
 
