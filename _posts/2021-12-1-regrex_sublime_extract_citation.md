@@ -3,7 +3,7 @@ layout: post
 title: "Regrex extract citation information in Sublime"
 date:   2021-12-01
 tags: [regrex]
-toc: true
+ 
 comments: true
 author: Songbiao Zhu
 ---

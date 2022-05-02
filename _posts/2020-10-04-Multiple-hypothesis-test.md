@@ -4,7 +4,7 @@ title: "多重假设检验与Bonferroni校正、FDR校正"
 date:   2020-10-04
 tags: [R]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 

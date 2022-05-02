@@ -4,7 +4,7 @@ title: "如何使用Rprofile文件"
 date:   2020-10-23
 tags: [R]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 

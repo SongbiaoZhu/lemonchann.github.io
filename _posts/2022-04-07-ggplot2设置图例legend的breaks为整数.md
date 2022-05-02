@@ -4,7 +4,7 @@ title: "ggplot2设置图例legend的breaks为整数"
 date:   2022-04-07
 tags: [R]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 

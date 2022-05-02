@@ -4,7 +4,6 @@ title: "ggplot2-legend-adjustment-methods"
 date:   2020-10-17
 tags: [R]
 comments: true
-toc: true
 author: Songbiao Zhu
 ---
 

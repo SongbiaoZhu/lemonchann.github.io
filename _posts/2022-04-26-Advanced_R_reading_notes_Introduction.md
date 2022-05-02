@@ -4,7 +4,7 @@ title: "Advanced R reading notes: 1-Introduction"
 date:   2022-04-26
 tags: [R]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 

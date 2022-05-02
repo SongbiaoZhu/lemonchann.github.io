@@ -4,7 +4,7 @@ title: "C中文网python编程基础chapter-5-Python字符串常用方法详解"
 date:   2019-09-04
 tags: [python]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 

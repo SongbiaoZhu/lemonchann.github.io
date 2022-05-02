@@ -4,7 +4,7 @@ title: "linux系统管理学习笔记1-初识linux"
 date:   2020-05-15
 tags: [linux]
 comments: true
-toc: true
+ 
 author: Songbiao Zhu
 ---
 
