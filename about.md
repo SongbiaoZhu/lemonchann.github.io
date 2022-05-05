@@ -16,7 +16,7 @@ Hi，I'm Songbiao Zhu.
 
 Please click [here](https://pubmed.ncbi.nlm.nih.gov/?term=%22zhu+songbiao%22%5BAU%5D&sort=date) to check my publications in Pubmed.
 
-## Application development
+## Tools development
 
 * [shinyIF: A web tool for searching and visualizing journal impact factors](https://songbiaozhu.shinyapps.io/shinyif/)
 * [omicsVolcano: A web tool for visualizing omics data with Volcano](https://songbiaozhu.shinyapps.io/omicsVolcano/)
