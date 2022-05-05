@@ -7,7 +7,6 @@ comments: true
 author: Songbiao Zhu
 ---
 
-# shinydashboard系列五：主体Boxs
 
 **前言**
 

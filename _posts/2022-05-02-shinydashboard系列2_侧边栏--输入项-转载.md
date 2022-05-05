@@ -7,7 +7,6 @@ comments: true
 author: Songbiao Zhu
 ---
 
-# shinydashboard系列二：侧边栏--输入项
 
 **前言**
 

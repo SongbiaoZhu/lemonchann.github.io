@@ -7,7 +7,6 @@ comments: true
 author: Songbiao Zhu
 ---
 
-# shinydashboard系列一：标题栏
 
 **前言**
 
