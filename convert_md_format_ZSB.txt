@@ -1,0 +1,64 @@
+---
+layout: post
+title: "我和沙利度胺的故事"
+date:   2022-06-08
+tags: [Biomedicine]
+comments: true
+author: Songbiao Zhu
+---
+
+---
+layout: post
+title: "提取论文中图片的原始数据"
+date:   2022-06-08
+tags: [Efficiency]
+comments: true
+author: Songbiao Zhu
+---
+
+
+---
+layout: post
+title: "Student's t-test"
+date:   2022-06-18
+tags: [Bioinformatics]
+comments: true
+author: Songbiao Zhu
+---
+
+---
+layout: post
+title: "Photoshop软件使用学习"
+date:   2022-06-18
+tags: [life]
+comments: true
+author: Songbiao Zhu
+---
+
+---
+layout: post
+title: "GGplot2使用 aes_string 引用变量"
+date:   2022-06-18
+tags: [R]
+comments: true
+author: Songbiao Zhu
+---
+
+---
+layout: post
+title: "Linux系统操作知识积累"
+date:   2022-06-18
+tags: [linux]
+comments: true
+author: Songbiao Zhu
+---
+
+
+---
+layout: post
+title: "让WB条带更美观的tips"
+date:   2022-06-18
+tags: [experiments]
+comments: true
+author: Songbiao Zhu
+---
