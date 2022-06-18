@@ -2,7 +2,7 @@
 layout: post
 title: "STRING API使用方法"
 date:   2019-10-08
-tags: [bioinformatics]
+tags: [Bioinformatics]
 comments: true
  
 author: Songbiao Zhu

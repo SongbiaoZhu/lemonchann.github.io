@@ -2,7 +2,7 @@
 layout: post
 title: "Uniprot API with R"
 date:   2019-09-20
-tags: [bioinformatics]
+tags: [Bioinformatics]
 comments: true
 toc: true
 author: Songbiao Zhu
