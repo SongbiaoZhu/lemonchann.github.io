@@ -6,9 +6,9 @@ tags: [R]
 comments: true
 author: Songbiao Zhu
 ---
-## 引言
-
 ggplot的绘图代码中，`aes()`函数中映射数据的时候，是直接写名字。但是当需要对多个变量进行循环绘图的时候，就需要使用`aes_string()` 函数了。
+
+<!-- more -->
 
 推荐参考链接中的文章，我已经实践work。
 

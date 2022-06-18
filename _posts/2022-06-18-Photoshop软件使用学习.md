@@ -6,6 +6,9 @@ tags: [life]
 comments: true
 author: Songbiao Zhu
 ---
+Photoshop中，如何换算图片像素尺寸(厘米/英寸)？如何查看图像尺寸大小？如何查看画布尺寸大小？如何自动裁切图片文档的透明空白区域？
+
+<!-- more -->
 
 ## 查看图像尺寸大小
 

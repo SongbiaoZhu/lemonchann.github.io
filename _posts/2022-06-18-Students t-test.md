@@ -6,7 +6,7 @@ tags: [Bioinformatics]
 comments: true
 author: Songbiao Zhu
 ---
-## 引言
+
 Student's t-test 是由William Sealy Gosset 于1908年发表的统计检验方法，是我们通常所说的t-test，常用于检验样本的均值。
 
 * 单样本时，检验样本均值是否等于某一数值；
@@ -19,8 +19,7 @@ Student's t-test的使用前提是
  1. 对于第一个条件，可以用一些test来检验其正态性，比如Shapiro-Wilk test，Kolmogorov-Smirnov test，或者用Q-Q plot；
  2. 而方差齐性可通过F-test， Levene's test， Bartlett's test 等来检验。
 
- 后来也有一些corrected t-test，比如Welch's t-test。
-
+<!-- more -->
 
 ## T-test的应用
 

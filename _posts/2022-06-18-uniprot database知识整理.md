@@ -6,16 +6,15 @@ tags: [Bioinformatics]
 comments: true
 author: Songbiao Zhu
 ---
+swiss-Prot 库和trEMBL库的关系是怎样的？
+
+<!-- more -->
 
 ## Why is UniProtKB composed of 2 sections, UniProtKB/Swiss-Prot and UniProtKB/TrEMBL?
 
 Swiss-Prot(创建于1986年)是一个集实验结果、计算特征和科学结论于一体的高质量的手工注释的非冗余蛋白质序列数据库。UniProtKB/Swiss-Prot现在是UniProt知识库的审查部分。
 
 UniProtKB的TrEMBL部分是在1996年引入的，以应对基因组项目增加的数据流。当时已经认识到，作为Swiss-Prot标志的传统时间和劳力密集的人工管理过程不能扩大到包括所有可用的蛋白质序列。UniProtKB/TrEMBL包含高质量的计算分析记录，通过自动注释和分类丰富了这些记录。这些UniProtKB/TrEMBL未审查的条目与UniProtKB/Swiss-Prot手动审查的条目保持分离，以便后者的高质量数据不会以任何方式被削弱。资料的自动处理，可使市民迅速查阅有关纪录。
-
-Swiss-Prot (created in 1986) is a high quality manually annotated and non-redundant protein sequence database, which brings together experimental results, computed features and scientific conclusions. UniProtKB/Swiss-Prot is now the reviewed section of the UniProt Knowledgebase.
-
-The TrEMBL section of UniProtKB was introduced in 1996 in response to the increased dataflow resulting from genome projects. It was already recognized at that time that the traditional time- and labour-intensive manual curation process which is the hallmark of Swiss-Prot could not be broadened to encompass all available protein sequences. UniProtKB/TrEMBL contains high quality computationally analyzed records that are enriched with automatic annotation and classification. These UniProtKB/TrEMBL unreviewed entries are kept separated from the UniProtKB/Swiss-Prot manually reviewed entries so that the high quality data of the latter is not diluted in any way. Automatic processing of the data enables the records to be made available to the public quickly.
 
 ## swiss-Prot 库和trEMBL库的关系
 

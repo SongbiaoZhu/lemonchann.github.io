@@ -6,7 +6,8 @@ tags: [Bioinformatics]
 comments: true
 author: Songbiao Zhu
 ---
-
+Proteome Discoverer结果中，这些名词的含义是什么：PSM？FPR？FDR？p-value？PEP？q-value？
+<!-- more -->
 ## Terminology
 
 * PSM: peptide-spectrum match, a spectrum that matches to a peptide sequence

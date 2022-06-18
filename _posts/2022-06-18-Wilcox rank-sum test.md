@@ -6,10 +6,11 @@ tags: [Bioinformatics]
 comments: true
 author: Songbiao Zhu
 ---
+t-test是参数统计检验方法，应用的前提是检测变量服从等方差的正态分布。当数据不符合此要求时，可以使用非参数检验方法是Wilcoxon rank sum test，或者叫**Mann Whitney U test**。
+
+<!-- more -->
 
 ## wilcox.test
-
-t-test是参数统计检验方法，应用的前提是检测变量服从等方差的正态分布。当数据不符合此要求时，可以使用非参数检验方法是Wilcoxon rank sum test，或者叫**Mann Whitney U test**。
 
 两个独立样本的t-test是检验两个样本的均值是否相等。而两个独立样本的wilcoxon test 则是检验两个样本的中位数，或者说两个样本的分布是否有偏移。因此，wilcoxon test在计算统计量时是先将两个样本混到一起，然后对混合后的list进行从小到大排序，根据排序把两个样本的值分别转换成排序序数，最后比较两个样本的序数的大小。如果序数大的富集在其中一个样本，表明该样本相对另一个样本的值要更大，相反亦然。
 

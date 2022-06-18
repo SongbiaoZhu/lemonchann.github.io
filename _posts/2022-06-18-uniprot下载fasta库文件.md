@@ -8,7 +8,7 @@ author: Songbiao Zhu
 ---
 
 以下载human的库为例，操作步骤：
-
+<!-- more -->
 1. Go to www.uniprot.org
 2. Click Proteomes.
 3. In the search field, type human, and click Search.
