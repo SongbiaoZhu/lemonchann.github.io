@@ -11,8 +11,6 @@ author: Songbiao Zhu
 
 ABPP
 
-## Activity-Based Protein Profiling (ABPP)
-
  ABPP is a chemical proteomics approach that utilizes small-molecule probes to determine the functional state of enzymes directly in native systems.
 
 <!-- more -->
